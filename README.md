@@ -4,13 +4,19 @@ Tests for Javascript
 
 For this project you will need an active browser and a working internet connection
 
-## Running the tests
+## Behavior Driven Development
 
-Fill the test and wait for the results
+The program allows the user to select only one option. The user cannot select multiple options
+
+
+The program requires the user to select any option.
+
+
+The program requires that the user to at least select an option befor submitting the form
 
 ## Deployment
 
-follow link
+follow link https://github.com/Vynnel/Quizboard
 
 ## Built With
 
