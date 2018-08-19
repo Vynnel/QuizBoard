@@ -6,13 +6,12 @@ For this project you will need an active browser and a working internet connecti
 
 ## Behavior Driven Development
 
-The program allows the user to select only one option. The user cannot select multiple options
+The program promptsthe the user to select only one option, in that if the user tries to select more options in a single question the previously selected option will be deselected.
 
 
-The program requires the user to select any option.
+The program has no restrictions on which option to select, any option can be selected but points & or marks will be awarded for correct options only.
 
-
-The program requires that the user to at least select an option befor submitting the form
+The form will only be submitted if all the questions are answered
 
 ## Deployment
 
