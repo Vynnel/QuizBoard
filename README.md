@@ -19,9 +19,9 @@ follow link https://github.com/Vynnel/Quizboard
 
 ## Built With
 
-* Atom
-* Bootstrap
-* Cascading Style Sheets
+* Atom.
+* Bootstrap.
+* Cascading Style Sheets.
 
 
 ## Versioning
