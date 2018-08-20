@@ -34,7 +34,7 @@ var testResults = function(one, two ,three, four, five){
     }
     var result = testResults(Question1, Question2, Question3, Question4, Question5);
 
-    $("#display").text("Your score is: " + result + " /25");
+    $("#display").text("Your score is: " + result + " /15");
 
   
 });
